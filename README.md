@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriksOwy&&layout=compact&count_private=true&show_icons=true&theme=dracula" />
 
-💻 My favorite programming languages are 💻
+### 💻 My favorite programming languages are 💻
 
 <div>
 <a title="C++">
