@@ -2,6 +2,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriksOwy&&layout=compact&count_private=true&show_icons=true&theme=dracula" />
 
+💻 My favorite programming languages are 💻
+
 <div>
 <a title="C++">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
@@ -29,13 +31,5 @@
 
 <a title="CSS">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
-</a>
-
-<a title="VisualStudioCode">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-</a>
-
-<a title="GitHub">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png">
 </a>
 </div>
