@@ -2,34 +2,45 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriksOwy&&layout=compact&count_private=true&show_icons=true&theme=dracula" />
 
-<a title="CPP">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png%22%3E">
+<div>
+<a title="PHP">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">
 </a>
-
-<a title="CSHARP">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png%22%3E">
-</a>
-
-<a title="JAVA">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png%22%3E">
-</a>
-
-<a title="JAVASCRIPT">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png%22%3E">
-</a>
-
 <a title="MYSQL">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png%22%3E">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
 </a>
-
-<a title="MYSQL">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png%22%3E
+    <a title="C#">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png">
 </a>
-
-<a title="HTML">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png%22%3E">
+    </a>
+    <a title="Java">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
 </a>
-
-<a title="CSS">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png%22%3E">
 </a>
+    </a>
+    <a title="HTML">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
+</a>
+ <a title="CSS">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
+</a>
+ <a title="Javascript">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+</a>
+ <a title="GitHub">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png">
+</a>
+<a title="Windows">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png">
+</a>
+</a>
+<a title="git">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+</a>
+<a title="VisualStudioCode">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+</a>
+<a title="C++">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+</a>
+</div>
