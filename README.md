@@ -33,7 +33,3 @@
 <a title="CSS">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png%22%3E">
 </a>
-
-<a title="PHP">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png%22%3E"/>
-</a>
