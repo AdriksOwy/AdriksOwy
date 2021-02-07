@@ -10,7 +10,7 @@
 
 <pre></pre>
 
-### 💻 My favorite programming languages are 💻
+<p align="center">### 💻 My favorite programming languages are 💻</p>
 
 <div align="center">
 <a title="C++">
