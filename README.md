@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Adrian, nickname Adriks ❤️
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Agil-Dev" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=AdriksOwy" alt="visitors" />
 </p>
 
 <p align="center">
