@@ -54,7 +54,7 @@
 </a>
 </div><br>
 
-<pre></pre>
+<pre></pre><br>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdriksOwy&count_private=true&show_icons=true&theme=tokyonight" />
