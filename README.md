@@ -39,9 +39,9 @@
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
 </a>
 
-<a title="visualstudio">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/visualstudio/visualstudio.png">
-</a>
+<a title="VisualStudio-Code">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png">
+  </a>
 
 <a title="windows">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png">
