@@ -4,6 +4,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=AdriksOwy&theme=onedark">
 </p>
 
+<pre></pre>
+
 ### 💻 My favorite programming languages are 💻
 
 <div>
