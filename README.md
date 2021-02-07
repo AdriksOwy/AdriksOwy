@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Adrian, nickname Adriks ❤️
+# <p align="center">Hi there 👋 My name is Adrian, nickname Adriks ❤️</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdriksOwy" alt="visitors" />
