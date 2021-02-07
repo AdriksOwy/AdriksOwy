@@ -10,8 +10,6 @@
 
 <pre></pre>
 
-## <p align="center">💻 My favorite programming languages are 💻</p>
-
 <div align="center"><br>
 <a title="C++">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
@@ -40,7 +38,19 @@
 <a title="CSS">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
 </a>
-</div>
+
+<a title="visualstudio">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/visualstudio/visualstudio.png">
+</a>
+
+<a title="windows">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png">
+</a>
+
+<a title="github">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png">
+</a>
+</div><br>
 
 <pre></pre>
 
