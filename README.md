@@ -1,6 +1,10 @@
 ### Hi there 👋 My name is Adrian, nickname Adriks ❤️
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Agil-Dev" alt="visitors" />
+</p>
+
+<p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=AdriksOwy&theme=onedark">
 </p>
 
