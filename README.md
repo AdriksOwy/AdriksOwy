@@ -61,10 +61,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriksOwy&layout=compact&theme=tokyonight" />
 </p><br>
 
-<pre></pre><br>
+<pre></pre>
 
-## Website : https://adriksgames.github.io/ <br>
-## Youtube Channel : https://www.youtube.com/channel/UCUyUmVT8Rnzv4mYIyyfwN_w <br>
-## Discord Server : https://discord.gg/g5V8ZJp Adriks#1421 <br>
+# Website : https://adriksgames.github.io/ <br>
+# Youtube Channel : https://www.youtube.com/channel/UCUyUmVT8Rnzv4mYIyyfwN_w <br>
+# Discord Server : https://discord.gg/g5V8ZJp Adriks#1421 <br>
 
 <pre></pre>
