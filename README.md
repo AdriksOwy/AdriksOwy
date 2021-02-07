@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Adrian, nickname Adriks ❤️
+# Hi there 👋 My name is Adrian, nickname Adriks ❤️
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdriksOwy" alt="visitors" />
@@ -10,7 +10,7 @@
 
 <pre></pre>
 
-### <p align="center">💻 My favorite programming languages are 💻</p>
+## <p align="center">💻 My favorite programming languages are 💻</p>
 
 <div align="center">
 <a title="C++">
