@@ -19,7 +19,11 @@
     
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#">
   <img width="45" src="./assets/csharp.png" alt="C#">
-  </a>
+</a>
+
+<a href="https://www.cprogramming.com/" title="C">
+  <img width="45" src="./assets/c.png" alt="C">
+</a>
 
 <a href="" title="Java">
   <img width="45" src="./assets/java.png" alt="Java">
