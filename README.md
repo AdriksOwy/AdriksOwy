@@ -39,7 +39,7 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
   <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS">
-/a>
+</a>
 
 <a href="https://code.visualstudio.com/" title="VisualStudio-Code">
   <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VisualStudio-Code">
