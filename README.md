@@ -45,7 +45,7 @@
   <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS">
 </a>
 
-<a href="https://code.visualstudio.com/" title="VisualStudio-Code">
+<a href="https://code.visualstudio.com/" title="Visual-Studio-Code">
   <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VisualStudio-Code">
 </a>
 
