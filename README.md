@@ -1,6 +1,6 @@
 # <p align="center">Hi there 👋 My name is Adrian, nickname Adriks ❤️</p>
 
-<p align="center" size="24px">
+<p align="center" width="24px">
 💻 Full-Stack Developer 💻
 ❤️ Channel YouTube - Adriks ❤️
 🏰 Live in Poland 🏰
