@@ -2,11 +2,11 @@
 
 <h3 align="center"> 💻 Full-Stack Developer 💻 ❤️ Channel YouTube - Adriks ❤️ 🏰 Live in Poland 🏰 </h1>
 
+<pre></pre>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdriksOwy" alt="visitors" />
 </p>
-
-<pre></pre>
 
 # <p align="center">⚔️ Known & Used ⚔️</p>
 
