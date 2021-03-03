@@ -4,10 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=AdriksOwy" alt="visitors" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdriksOwy&column=7&theme=onedark" width="1200px">
-</p>
-
 <pre></pre>
 
 # <p align="center">⚔️ Known & Used ⚔️</p>
@@ -65,11 +61,14 @@
 <pre></pre><br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdriksOwy&count_private=true&show_icons=true&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriksOwy&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdriksOwy&column=7&theme=onedark" width="1200px">
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AdriksOwy&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdriksOwy&count_private=true&show_icons=true&theme=tokyonight" width="500px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriksOwy&layout=compact&theme=tokyonight" width="400px" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AdriksOwy&theme=tokyonight" width="650px" />
 </p>
 <br>
 
