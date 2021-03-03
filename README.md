@@ -1,6 +1,6 @@
 # <p align="center">Hi there 👋 My name is Adrian, nickname Adriks ❤️</p>
 
-<center>## 💻 Full-Stack Developer 💻 ❤️ Channel YouTube - Adriks ❤️ 🏰 Live in Poland 🏰</center>
+<h1 align="center"> 💻 Full-Stack Developer 💻 ❤️ Channel YouTube - Adriks ❤️ 🏰 Live in Poland 🏰 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdriksOwy" alt="visitors" />
