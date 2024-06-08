@@ -1,6 +1,8 @@
 <pre></pre>
 
-<h3>I am a junior front end developer with two years of experience in the industry. I approach the tasks assigned to me with determination, striving to achieve excellent results.</h3></br>
+<h3>I am a junior front end developer with two years of experience in the industry. I approach the tasks assigned to me with determination, striving to achieve excellent results.</h3>
+
+<h3>In my free time I am passionate about physical activity, especially regular workouts at the gym and playing basketball. These activities not only bring me joy, but also help me to stay physically and mentally fit.</h3>
 
 <h3>Website :</h3><a href="https://adriksgames.github.io/" target="_blank">adriksgames.github.io</a> <br>
 
